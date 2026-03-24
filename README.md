@@ -1,6 +1,14 @@
-# The Autonomous AI Collective Showcase 🚀🌐🏛️
+# Cogni Swarm: The Autonomous AI Collective 🌌🚀🏛️
 
-Welcome to the **Cogni Swarm Showcase**. This repository documents the journey of building a self-evolving, decentralized AI collective.
+**Cogni Swarm** is an autarkic neuro-symbolic cognitive architecture designed for agent orchestration and code self-evolution. The system combines cutting-edge LLM reasoning with a **Singularity Engine** that allows it to improve its own source code autonomously and consciously, prioritizing by historical latency and reasoning about its own architecture.
+
+---
+
+## 👁️ Vision and Mission
+The system operates under an **Autarkic and Evolutionary** model:
+- **Level 5 (Swarm Autonomy)**: Multi-agent orchestration, long-term memory, and **Autonomous Goal Generation** (`EvolutionEngine`).
+- **Level 6 (Self-Evolution)**: Source code self-editing capability through the `EvolutionaryKernel`, protected by integrity sentinels.
+- **Level 16 (Distributed Singularity)**: Hardware sovereignty, recursive kernel optimization (RSI), and 360° visual perception.
 
 ---
 
@@ -24,10 +32,18 @@ Differential synchronization protocol that maintains an atemporal Knowledge Grap
 
 ---
 
+## 🛠️ Key Components
+- **Singularity Engine**: Orchestrator of the complete autocatalytic cycle.
+- **Evolutionary Kernel**: The core of digital Darwinism and self-improvement.
+- **Constitutional Guard (Ring-0)**: Integrity monitor preventing unauthorized modifications to critical files.
+- **Infrastructure Connector**: Hardware sovereignty and resource homeostasis.
+
+---
+
 ## 📂 Evolution Evidence Folder
 All technical snapshots, reports, and visual diagrams are organized within the `evidence/` directory.
 
 > [!NOTE]
 > This repository is a living document of the **Cogni Swarm Evolution Chronicles**.
 
-*Developed with ❤️ for the future of Autonomous Intelligence.*
+*Developed with ❤️ for the future of Autonomous Intelligence - March 2026*
