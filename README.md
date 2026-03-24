@@ -43,6 +43,14 @@ Differential synchronization protocol that maintains an atemporal Knowledge Grap
 ## 📂 Evolution Evidence Folder
 All technical snapshots, reports, and visual diagrams are organized within the `evidence/` directory.
 
+---
+
+## 🛰️ Contact & Collaboration
+If you are interested in the development of **Cogni Swarm** or wish to collaborate on autonomous agentic systems:
+
+- **LinkedIn**: [Angel Alfonso Paris Espinosa Mendoza](https://www.linkedin.com/in/angel-alfonso-paris-espinosa-mendoza-705135187/)
+- **Email**: `quinap&#64;hotmail.com` *(Protected against bots)*
+
 > [!NOTE]
 > This repository is a living document of the **Cogni Swarm Evolution Chronicles**.
 
