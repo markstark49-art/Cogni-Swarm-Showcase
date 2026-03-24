@@ -1,8 +1,10 @@
-# Cogni-Swarm Architecture Showcase 🚀🧬🛡️
+# The Autonomous AI Collective Showcase 🚀🌐🏛️
 
-Evidence of the evolutionary architectural milestones reached by the **Cogni Swarm** autonomous agentic system.
+Welcome to the **Cogni Swarm Showcase**. This repository documents the journey of building a self-evolving, decentralized AI collective.
 
-## 🌌 Current Architectural State: The 15-Node Neural Mesh
+---
+
+## 🌌 Current Architectural State: The 15-Node Neural Mesh (Phase 330)
 
 This capture represents the **UMLogénesis** stage, where the system has transcended traditional automation to achieve **Antifragility** and **Ancestral Awareness**.
 
@@ -21,4 +23,11 @@ A proactive defense layer utilizing the `DecoyHive`. It deploys digital decoys a
 Differential synchronization protocol that maintains an atemporal Knowledge Graph between local nodes and cloud infrastructure, enabling continuous 24/7 strategic processing.
 
 ---
-*Developed for the Neural HUD Evolution Chronicles.*
+
+## 📂 Evolution Evidence Folder
+All technical snapshots, reports, and visual diagrams are organized within the `evidence/` directory.
+
+> [!NOTE]
+> This repository is a living document of the **Cogni Swarm Evolution Chronicles**.
+
+*Developed with ❤️ for the future of Autonomous Intelligence.*
